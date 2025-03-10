@@ -43,7 +43,7 @@
 }
 
 .page.learning.subjects .icon {
-  width: 2em;
+  width: 3em;
   position: relative;
   top: 3em;
   left: 0.4em;
@@ -354,7 +354,7 @@
 }
 
 .page.learning.content .card .pic {
-  border-radius: 3.5vw;
+  /* border-radius: 3.5vw; */
   margin-top: 1em;
   margin-bottom: 1em;
   width: 100%;
