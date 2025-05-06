@@ -263,8 +263,9 @@
                     ],
                     "בתי החייל": [
                         {
-                            cardType: "text",
-                            content: `אישושכות.`,
+                        cardType: "picAndText",
+                        title: 'בתי החייל ',
+                        pic: "../assets/images/bateiHahayal.png",
                         },
                     ],
                 },
