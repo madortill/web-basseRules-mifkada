@@ -266,6 +266,8 @@
                         cardType: "picAndText",
                         title: 'בתי החייל ',
                         pic: "../assets/images/bateiHahayal.png",
+                        content: ''
+
                         },
                     ],
                 },
