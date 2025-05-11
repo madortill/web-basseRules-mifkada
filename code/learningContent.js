@@ -446,7 +446,7 @@
                             },
                             {
                                 cardType: "picAndText",
-                                pic: "../assets/images/table6.png",
+                                pic: "../assets/images/tfilot-time.jpeg",
                                 content: "שעות פעילות בית הכנסת",
                             },
                             {
