@@ -334,12 +334,14 @@ const DATA = {
             li5: `יש לוודא כי חיילים ילבשו אך ורק פריטי לבוש שנופקו על ידי הצבא ואושרו לשימוש ביחידה.`,
             li6: `חלה חובה על חבישת כומתה ברחבי קריית ההדרכה.`,
           },
-          {
-            cardType: "picAndText",
-            pic: "../assets/images/neatimMifkada.jpeg",
-            content: "נעתים מפקדת קריית ההדרכה",
-          },
         ],
+          "נעתים מפקדת קריית ההדרכה": [
+            {
+              cardType: "picAndText",
+              pic: "../assets/images/learning/neatimMifkada.jpeg",
+              content: "",
+            },
+          ],
       },
       מסדרים: {
         "מסדרי בוקר": [
