@@ -341,9 +341,9 @@ const DATA = {
               pic: "../assets/images/learning/neatimMifkada.jpeg",
               content: "",
             }, 
-          ],
-      },
-      מסדרים: {
+          ], 
+      }, 
+      מסדרים: { 
         "מסדרי בוקר": [
           {
             cardType: "listNumbers3",
