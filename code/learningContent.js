@@ -340,7 +340,7 @@ const DATA = {
               cardType: "picAndText",
               pic: "../assets/images/learning/neatimMifkada.jpeg",
               content: "",
-            },
+            }, 
           ],
       },
       מסדרים: {
