@@ -1014,10 +1014,10 @@ const DATA = {
   "מפקדת קריית ההדרכה": {
     icon: "../assets/images/learning/Artboard 4.svg",
     // שאלות לנושא הזה
-    questions: [],
+    questions: [], 
     learningContent: {
       // סוג הכרטיסייה
-      "דבר המפקדת": {
+      "דבר המפקדת": { 
         "דבר מפקדת קריית ההדרכה": [
           {
             cardType: "text",
